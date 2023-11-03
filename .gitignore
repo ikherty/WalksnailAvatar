@@ -1,0 +1,8 @@
+docs/.vitepress/dist
+docs/.vitepress/cache
+.DS_store
+docs/.DS_Store
+.idea
+.vscode
+node_modules
+yarn-error.log
