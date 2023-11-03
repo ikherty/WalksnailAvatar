@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,Q as t}from"./chunks/framework.edbfdbf1.js";const u=JSON.parse('{"title":"Покупки","description":"","frontmatter":{},"headers":[],"relativePath":"shopping.md","filePath":"shopping.md"}'),o={name:"shopping.md"},l=t("",16),s=[l];function p(n,h,i,c,_,d){return r(),a("div",null,s)}const k=e(o,[["render",p]]);export{u as __pageData,k as default};
