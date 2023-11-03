@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,Q as r}from"./chunks/framework.edbfdbf1.js";const f=JSON.parse('{"title":"Известные проблемы","description":"","frontmatter":{},"headers":[],"relativePath":"problems.md","filePath":"problems.md"}'),o={name:"problems.md"},s=r("",3),_=[s];function n(i,l,c,p,d,h){return e(),t("div",null,_)}const u=a(o,[["render",n]]);export{f as __pageData,u as default};
