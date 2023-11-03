@@ -10,7 +10,7 @@ export default defineConfig({
     ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
     ],
   themeConfig: {
-    siteTitle: "Walksnail Avatar HD System",
+    siteTitle: "Walksnail Avatar",
     logo: "/favicon.svg",
     returnToTopLabel: "Наверх",
     sidebarMenuLabel: "Меню",
@@ -27,14 +27,25 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "ПОЛЕЗНАЯ ИНФОРМАЦИЯ",
+        text: "Инструкции",
         collapsible: false,
         items: [
           { text: "FAQ", link: "/FAQ" },
-          { text: "Покупки", link: "/shopping" },
+          { text: "Подключение", link: "/building" },
+          { text: "Прошивка", link: "/firmware" },
+          { text: "Настройки оборудования", link: "/settings" },
           { text: "Известные проблемы", link: "/problems" },
         ]
-      }
+      },
+      {
+        text: "Полезные материалы",
+        collapsible: false,
+        items: [
+          { text: "Тесты и замеры", link: "/test" },
+          { text: "Аксессуары", link: "/shopping" },
+          { text: "3D печать", link: "/3D" },
+        ]
+      },
     ],
 
     socialLinks: [
