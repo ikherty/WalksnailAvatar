@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Walksnail Avatar HD System",
   description: "Полезная информация про Walksnail Avatar HD Digital System",
   lang: "ru",
+  base: "/WalksnailAvatar/",
   head: [
     ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
     ],
