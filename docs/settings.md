@@ -20,3 +20,5 @@ AspectRatio : на v2 v3 камере 4:3 на v1, nano light, pro - 16:9 (эт�
 ## Шрифты
 
 https://sites.google.com/view/sneaky-fpv/home
+
+Накладывание OSD на видео - https://github.com/avsaase/walksnail-osd-tool

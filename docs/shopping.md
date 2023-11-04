@@ -8,6 +8,9 @@
 [Кабель Type-C на HDMI Hoco UA16](https://ozon.ru/t/47NL1Ag),  [карта захвата  4К с HDMI на USB 3.0/Type-C](https://ozon.ru/t/zdnreND)
 >ВНИМАНИЕ карта захвата работает 50\50. Отдельно захватывает, а с кабелем по ссылке и очками или vrx не у всех.
 
+[USB-кабель Walksnail Avatar Type-C](https://www.ozon.ru/product/usb-kabel-walksnail-avatar-type-c-1041870967/)
+
+
 ## Маски и ремни
 
 [Хороший ремень для аватароочков](https://sl.aliexpress.ru/p?key=GrBxUrF)
