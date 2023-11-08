@@ -33,7 +33,7 @@ export default defineConfig({
           { text: "FAQ", link: "/FAQ" },
           { text: "Подключение", link: "/building" },
           { text: "Прошивка", link: "/firmware" },
-          { text: "Настройки оборудования", link: "/settings" },
+          { text: "Настройка", link: "/settings" },
           { text: "Известные проблемы", link: "/problems" },
         ]
       },
