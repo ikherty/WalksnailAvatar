@@ -2,6 +2,11 @@
 
 Общая информация, популярные вопросы и ответы на них.
 
+## О системе
+
+Walksnail Avatar - цифровая FPV система, выпущенная в 2022 году, конкурент [HDZero](hdzero.ru) и [DJI FPV](https://www.djifpv.ru). Электронику для этой системы делает [Walksnail (они же Caddx FPV)](https://caddxfpv.com/collections/walksnail-avatar-system) и [Fatshark HD](https://www.fatshark.com).
+
+
 ## FAQ с дискорда 
 
 В: Экраны очков Walksnail имеют формат 4:3 или режим 4:3 обрезает их?
