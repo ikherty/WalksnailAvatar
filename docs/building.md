@@ -103,8 +103,20 @@ Vin подключается к:
 ### INav
  *в процессе написания*
 
+### KISS ULTRA
+
+В конфигураторе выбираем в подключенном порте **MSP** в режиме **Avatar**
+![Настройка OSD](./assets/building/osdUltra1.jpg)
+
+В зависимости от типа камеры ставим режим **4:3** (для v2, v3) или **16:9** (для Light, v1, Pro)
+
+![Настройка OSD](./assets/building/osdUltra2.jpg)
+
+HD шрифты OSD для отображения в очках\vrx https://raw.githubusercontent.com/wiki/KissUltra/wiki/downloads/ULTRA_FONTS_B45.zip
+
 ### Ardupilot
  *в процессе написания*
+
 
 ### Решение возникших проблем
 
